@@ -1,3 +1,3 @@
 # Google-Cloud-Summarizations
 A collection of summaries, key takeaways, and reflections from Google Cloud training labs and modules.
-https://github.com/KolbyWashington9/Google-Cloud-Summarizations/blob/main/Google%20Cloud%20Marketplace%20%E2%80%93%20LAMP%20Stack%20Deployment.pdf
+https://docs.google.com/document/d/1NJtA06a6mx_lp-rUp3QbUZJo-6dX7Lra46atNDXgUD4/edit?usp=sharing
