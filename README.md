@@ -6,12 +6,6 @@ Each folder represents a lab with detailed documentation of objectives, tools, s
 
 ---
 
-## 📂 Labs Completed
-
-- [LAMP Stack Deployment](./LAMP-Stack-Deployment/README.md)  
-- [VPC Networking](./VPC-Networking/README.md)  
-- [Cloud SQL + Cloud Storage Integration](./Cloud-SQL-Storage-Integration/README.md)  
-- [Cloud Run Deployment](./Cloud-Run-Deployment/README.md)  
 
 ---
 
