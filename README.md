@@ -1,4 +1,4 @@
-# Google-Cloud-Summarizations
+
 # Google Cloud Summarizations ☁️
 
 This repository contains summaries, key learnings, and reflections from hands-on **Google Cloud training labs**.  
