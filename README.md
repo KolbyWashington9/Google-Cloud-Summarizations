@@ -18,7 +18,7 @@ Each folder represents a lab with detailed documentation of objectives, tools, s
 ---
 
  Connect with Me
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)  
+- **GitHub**: [github.com/YourUsername]((https://github.com/KolbyWashington9/Google-Cloud-Summarizations/edit/main/README.md))  
 - **LinkedIn**: [linkedin.com/in/kolbywashington2024](https://www.linkedin.com/in/kolbywashington2024)  
 - **Portfolio**: [Google Sites Portfolio](https://sites.google.com/d/1TDYeFA-Qg13YGg1DfI4Zv4ax9nsQAA6D/p/1js42z9Pi29lFnKELfni3ODvlwXfC8gLX/edit)  
 
