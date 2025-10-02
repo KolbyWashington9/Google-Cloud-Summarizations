@@ -1,0 +1,60 @@
+# Cloud SQL: Importing and Analyzing NYC Taxi Trips
+
+## Lab Overview
+In this lab, you will learn how to import CSV data into *Cloud SQL* and perform basic data analysis using SQL queries.  
+The dataset is provided by the *NYC Taxi & Limousine Commission*, containing detailed trip records such as pickup/drop-off times, locations, fares, passenger counts, and payment types.
+
+This dataset is widely used for **data engineering and data science** demonstrations.
+
+---
+
+## Objectives
+- Create a Cloud SQL instance and database  
+- Import CSV data into a Cloud SQL table  
+- Verify data integrity through queries  
+- Run basic analytics on taxi trip data  
+
+---
+
+## Key Tasks
+1. *Prepare the environment* 
+   - Configure environment variables for project, region, and storage bucket  
+   - Activate Cloud Shell  
+
+2. *Create Cloud SQL Instance*  
+   - Provision a SQL instance with `gcloud sql`  
+   - Set root password and whitelist Cloud Shell for access  
+   - Create `bts` database and `trips` table schema  
+
+3. *Import Taxi Trips Data*  
+   - Copy sample CSVs (~20,000 rows) from Cloud Storage  
+   - Load data into `trips` table using `LOAD DATA LOCAL INFILE`  
+
+4. *Check Data Integrity*  
+   - Verify unique pickup locations  
+   - Inspect trip distances (0-mile trips detected)  
+   - Find negative fare values  
+   - Analyze payment types distribution  
+
+---
+
+Key Learnings
+
+Cloud SQL Integration: Seamlessly import structured data for analysis.
+
+Data Integrity Checks: Essential step in validating pipelines (detecting 0-distance trips, negative fares).
+
+Real-World Use Case: Taxi trip datasets mimic real data engineering scenarios where cleaning and validation are critical.
+
+Real-World Applications
+
+Fraud detection (e.g., suspicious zero-distance or negative-fare trips)
+
+Transportation analytics (trip demand, payment methods, passenger trends)
+
+Data pipelines for business intelligence and machine learning models
+
+Reflection
+
+This lab demonstrates the process of moving raw CSV data into Cloud SQL and ensuring its integrity before downstream use.
+By applying validation queries, data engineers can uncover anomalies and prepare the dataset for meaningful analysis and reporting.
