@@ -62,7 +62,7 @@ BigQuery: Combining partitioning, arrays, structs, and public datasets unlocks r
 AI/ML: Vertex AI and cloud ML pipelines simplify deploying data science projects in production.
 
  Connect with Me
-- **GitHub**: (https://github.com/KolbyWashington9/Google-Cloud-Summarizations/edit/main/README.md)  
+- **GitHub**: (https://github.com/KolbyWashington9) 
 - **LinkedIn**: [linkedin.com/in/kolbywashington2024](https://www.linkedin.com/in/kolbywashington2024)  
 - **Portfolio**: [Google Sites Portfolio](https://sites.google.com/d/1TDYeFA-Qg13YGg1DfI4Zv4ax9nsQAA6D/p/1js42z9Pi29lFnKELfni3ODvlwXfC8gLX/edit)  
 
